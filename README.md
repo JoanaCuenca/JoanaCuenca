@@ -1,5 +1,6 @@
 ### Hi there 👋
 I’m currently working on something cool and energetic ⭐⚡
+
 🌱 I’m currently learning about how to be a good programmer!
 
 <!--
